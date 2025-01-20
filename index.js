@@ -38,7 +38,7 @@ const data = {
   name: chalk.bold.green('        Rinkal Dhankariya'),
   fact: chalk.hex('#B10000')('NaN stands for Not a Number but typeof NaN is a Number'),
   github: chalk.hex('#787878')('https://github.com/Rinkal-2024'),
-  npx: chalk.hex('#A1AB00')('npx Rinakl'),
+  npx: chalk.hex('#A1AB00')('npx rinkal'),
 
   labelFact: chalk.hex('#FF6262').bold('        Fun Fact:'),
   labelGitHub: chalk.hex('#9E9E9E').bold('        GitHub:'),
