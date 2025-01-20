@@ -1,6 +1,6 @@
 {
-  "name": "npx-rinkal",
-  "version": "1.0.0",
+  "name": "rinkal",
+  "version": "1.0.3",
   "description": "npx card, personal info",
   "homepage": "https://github.com/Rinkal-2024/npx-Rinkal#readme",
   "bugs": {
@@ -15,12 +15,20 @@
   "type": "module",
   "main": "index.js",
   "bin": {
-    "npx-rinkal": "index.js"
+    "rinkal": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node index.js"
   },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
   "dependencies": {
     "boxen": "^8.0.1",
     "chalk": "^5.4.1",
