@@ -2,20 +2,12 @@
   "name": "rinkal",
   "version": "1.0.5",
   "description": "npx card, personal info",
-  "homepage": "https://github.com/Rinkal-2024/npx-Rinkal#readme",
-  "bugs": {
-    "url": "https://github.com/Rinkal-2024/npx-Rinkal/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rinkal-2024/npx-Rinkal.git"
-  },
   "license": "ISC",
   "author": "Rinkal Dhankariya",
   "type": "module",
   "main": "index.js",
   "bin": {
-    "rinkal": "node ./index.js"
+    "rinkal": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
